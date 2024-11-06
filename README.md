@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Teodora Nikolić
-- I'm familiar with Python, Java, HTML, CSS, JavaScript
-- 🌱 I’m currently learning C++ and Flutter
+- I'm familiar with Python, Java, HTML, CSS, JavaScript, C#, C++
+- 🌱 I’m currently learning Angular
   
   
 
