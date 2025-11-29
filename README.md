@@ -30,7 +30,6 @@ Developer focused on web development, APIs and building useful tools. I enjoy wo
 - Full-stack web apps with React or Angular on the frontend and Spring Boot / Node.js on the backend  
 - Containerized services using Docker
 
-(Replace or expand this list with links to specific repositories or demos you want highlighted.)
 
 ---
 
