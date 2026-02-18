@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Teodora!
+# 👋🏻 Hi, I'm Teodora!
 
 ### Full-Stack Developer | API Enthusiast | Open Source Contributor
 
@@ -98,7 +98,7 @@ const teodora = {
 
 ---
 
-## 🤝 Connect With Me
+## 🤝🏻 Connect With Me
 
 <div align="center">
 
@@ -111,8 +111,6 @@ const teodora = {
 
 <div align="center">
   
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-Thanks for visiting my profile! Feel free to reach out for collaboration, questions, or just to connect! 🚀
+Thanks for visiting my profile! 
 
 </div>
